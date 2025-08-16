@@ -1,22 +1,9 @@
-# Instagram Privacy Policy
+We may collect the following types of information when you use our services:
 
-This repository hosts the **Privacy Policy** page required for my Facebook/Instagram App integration with **n8n automation**.
+Personal Information: such as name, email address, or contact details provided by you.
 
-The Privacy Policy is published via **GitHub Pages** and is accessible at:
+Usage Data: including how you interact with our app, pages visited, and features used.
 
-👉 https://yourusername.github.io/instagram-privacy-policy/privacy-policy.html
+Device Information: such as device type, operating system, browser type, and IP address.
 
----
-
-## Files in this Repo
-- `README.md` → This file  
-- `privacy-policy.html` → The actual Privacy Policy page (to be hosted on GitHub Pages)
-
----
-
-## How to Enable GitHub Pages
-1. Go to **Settings → Pages**  
-2. Select branch: `main`  
-3. Select folder: `/ (root)`  
-4. Save → GitHub Pages will generate a public link  
-5. Use that link in your **Facebook App Privacy Policy URL** field
+Cookies and Tracking Data: to improve user experience and provide relevant content.
